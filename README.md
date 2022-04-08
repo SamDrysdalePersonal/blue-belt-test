@@ -1,7 +1,7 @@
 # Blue Belt Fundamentals
 
 | CVBJJ Move Name | Curran Move Name | Series | Timestamp |
-|-----------|------------|------------|
+|-----------|------------|------------|------------|
 | Trap & Roll(Standard Variation) | Trap & Roll (Standard Collar Grab) | Mount Escape | [0:00](https://jeffcurran.tv/player-embed/id/4473/) |  
 | Trap & Roll(Headlock w/ Hook Removal | Headlock (With Hook Removal) | Mount Escape | [4:07](https://jeffcurran.tv/player-embed/id/4473/) |  
 | Mount: Elbow Escape | Elbow Escape | Mount Escape | [9:56](https://jeffcurran.tv/player-embed/id/4473/) |  
