@@ -34,7 +34,7 @@
 | Headlock: Ground (Leg Scissor) | Leg Scissor (Utilize Frame) | Headlock Defense (Ground) | [5:00](https://jeffcurran.tv/player-embed/id/4536/) | 
 | Headlock: Ground (Hook & Pull) | Hook & Pull (Take the Back) | Headlock Defense (Ground) | [9:50](https://jeffcurran.tv/player-embed/id/4536/) | 
 | Headlock: Ground (Super Lock) | Super Lock | Headlock Defense (Ground) | [13:07](https://jeffcurran.tv/player-embed/id/4536/) | 
-| Cross-Side Americana(Anticipate the Frame)](https://jeffcurran.tv/aiovg_videos/13-cross-side-submissions/)| [0:39](https://jeffcurran.tv/player-embed/id/4538/) | 
+| Cross-Side Americana (Anticipate the Frame) | Americana (Intercept/Anticipate the Frame) | Headlock Defense (Ground) | [0:39]() | 
 | Cross-Side Americana (Shoulder Pin) | Americana (Shoulder Pin) | Cross-Side Submissions | [3:19](https://jeffcurran.tv/player-embed/id/4538/) | 
 | Cross-Body (Far Side Armlock) | Far Side Arm-Lock (Walk Around) | Cross-Side Submissions | [6:39](https://jeffcurran.tv/player-embed/id/4538/) | 
 | Cross-Body (Standard Kimura) | Standard Kimura (Opponent's Arm is South) | Cross-Side Submissions | [11:11](https://jeffcurran.tv/player-embed/id/4538/) | 
