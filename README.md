@@ -12,7 +12,7 @@
 | Mount: High Swim | High Swim |  Maintain the Mount  | [0:40](https://jeffcurran.tv/player-embed/id/4463/) |  
 | Mount: Low Swim | Low Swim |  Maintain the Mount  | [3:00](https://jeffcurran.tv/player-embed/id/4463/) |  
 | Mount: Anchor & Base | Anchor & Base (Pushing & Bucking) |  Maintain the Mount  | [7:55](https://jeffcurran.tv/player-embed/id/4463/) |
-| Mount: Take the Back (Oppoonent Turns) | Take the Back (Opponent Turns) |  Maintain the Mount  | [9:30](https://jeffcurran.tv/player-embed/id/4463/) |  
+| Mount: Take the Back (Opponent Turns) | Take the Back (Opponent Turns) |  Maintain the Mount  | [9:30](https://jeffcurran.tv/player-embed/id/4463/) |  
 | Headlock: Standing (Frame & Escape) | Active Hip Drill & Frame and Escape | Head Lock Defense (Standing) | [0:30](https://jeffcurran.tv/player-embed/id/4465/) | 
 | Headlock: Standing (Punch Defense) |  Punch Defense (Backdoor Escape w/ Shoulder Lock)  | Head Lock Defense (Standing) | [3:35](https://jeffcurran.tv/player-embed/id/4465/) | 
 | Headlock: Standing (Roll Through) | Roll Through (Counter the Headlock Throw) | Head Lock Defense (Standing) | [9:20](https://jeffcurran.tv/player-embed/id/4465/) | 
@@ -43,7 +43,7 @@
 | Clock Choke (From the Back) | Clock Choke | Back Control & Submissions | [16:40](https://jeffcurran.tv/player-embed/id/4540/) | 
 | Weak Side Armlock | Armlock (Weak Side) | Back Control & Submissions | [19:22](https://jeffcurran.tv/player-embed/id/4540/) | 
 | Escape the Back (Follow the Finger) | Follow the Finger | Escape The Back | [3:57](https://jeffcurran.tv/player-embed/id/4542/) | 
-| Guard Attack (Standard Armbar) | Standard Straigh Arm Lock ( Cross Grip Control) | Guard Attack (Series 2) | [0:22](https://jeffcurran.tv/player-embed/id/4544/) | 
+| Guard Attack (Standard Armbar) | Standard Straight Arm Lock ( Cross Grip Control) | Guard Attack (Series 2) | [0:22](https://jeffcurran.tv/player-embed/id/4544/) | 
 | Mount Attack (Americana Standard) | Americana Standard | Mount Attack (Series 1) | [0:40](https://jeffcurran.tv/player-embed/id/4657/) | 
 | Mount Attack (Straight Armbar) | Straight Armbar Standard | Mount Attack (Series 1) | [7:00](https://jeffcurran.tv/player-embed/id/4657/) | 
 | Mount Attack (Cross Choke: Palm Up) | Cross Choke (Palm Up) | Mount Attack (Series 1) | [11:42](https://jeffcurran.tv/player-embed/id/4657/) | 
@@ -51,22 +51,22 @@
 | Guard (Choke Prevention) | Posture & Choke Prevention | Passing The Guard (Closed) | [0:50](https://jeffcurran.tv/player-embed/id/4661/) | 
 | Guard (Basic Stacking Pass) | Basic Stacking Pass (Kneeling) | Passing The Guard (Closed) | [5:33](https://jeffcurran.tv/player-embed/id/4661/) | 
 | Guard (Frontside Knee Slide Pass) | Knee Slide Pass (Front Side) | Passing The Guard (Closed) | [14:56](https://jeffcurran.tv/player-embed/id/4661/) | 
-| Triangle (Countering the Pass)](https://jeffcurran.tv/aiovg_videos/019-triangle/)| 15:29 | 
-| Triangle (Broken Posture)](https://jeffcurran.tv/aiovg_videos/019-triangle/)| 18:12 | 
-| Technical Mount (Clock Choke)](https://jeffcurran.tv/aiovg_videos/020-mount-attack-series-2-triple-attack/)| 6:50 | 
-| Technical Mount (Scissor Choke)](https://jeffcurran.tv/aiovg_videos/020-mount-attack-series-2-triple-attack/)| 3:21 | 
-| Technical Mount (Armlock)](https://jeffcurran.tv/aiovg_videos/020-mount-attack-series-2-triple-attack/)| 10:11 | 
-| Guillotine Choke (Standing)](https://jeffcurran.tv/aiovg_videos/021-guillotine-defense-standing/)| 0:36 | 
-| Guillotine Choke (Basic Survival)](https://jeffcurran.tv/aiovg_videos/021-guillotine-defense-standing/)| 2:57 | 
-| Guillotine Choke (Frame and Peak Out)](https://jeffcurran.tv/aiovg_videos/021-guillotine-defense-standing/)| 5:31 | 
-| Guillotine Choke (Knee Trip w/ Follow-up)](https://jeffcurran.tv/aiovg_videos/021-guillotine-defense-standing/)| 8:06 | 
-| Guard Scissor Sweep](https://jeffcurran.tv/aiovg_videos/022-sweeps-kneeling-opponent/)| 1:06 | 
-| Guard Push Sweep](https://jeffcurran.tv/aiovg_videos/022-sweeps-kneeling-opponent/)| 5:30 | 
-| Guard Elevator Sweep](https://jeffcurran.tv/aiovg_videos/022-sweeps-kneeling-opponent/)| 9:36 | 
-| Guard (Cross Choke: Palm Up)](https://jeffcurran.tv/aiovg_videos/024-guard-attack-series-3/)| 12:50 | 
-| Guard (Cross Choke: Palm Down)](https://jeffcurran.tv/aiovg_videos/024-guard-attack-series-3/)| 16:58 | 
-| Double Ankle Grab Sweep](https://jeffcurran.tv/aiovg_videos/024-guard-attack-series-3/)| 20:26 | 
-| Front Bear Hug (Arms In)](https://jeffcurran.tv/aiovg_videos/025-bear-hug-self-defense/)| 0:33 | 
-| Front Bear Hug (Arms Out)](https://jeffcurran.tv/aiovg_videos/025-bear-hug-self-defense/)| 3:51 | 
-| Rear Bear Hug (Arms In)](https://jeffcurran.tv/aiovg_videos/025-bear-hug-self-defense/)| 6:50 | 
-| Rear Bear Hug (Arms Out)](https://jeffcurran.tv/aiovg_videos/025-bear-hug-self-defense/)| 9:57 |  
+| Triangle (Countering the Pass) | Triangle (Countering the Pass) | Triangle | [15:29](https://jeffcurran.tv/player-embed/id/4664/) | 
+| Triangle (Broken Posture) | Triangle (Broken Posture Version 1) | Triangle | [18:12](https://jeffcurran.tv/player-embed/id/4664/) | 
+| Technical Mount (Clock Choke) | Clock Choke | Mount Attack (Series 2 – Triple Attack) | [6:50](https://jeffcurran.tv/player-embed/id/4667/) | 
+| Technical Mount (Scissor Choke) | Scissor Choke | Mount Attack (Series 2 – Triple Attack) | [3:21](https://jeffcurran.tv/player-embed/id/4667/) | 
+| Technical Mount (Armlock) | Armlock | Mount Attack (Series 2 – Triple Attack) | [10:11](https://jeffcurran.tv/player-embed/id/4667/) | 
+| Guillotine Choke (Standing) | Guillotine Choke (Standing) | Guillotine Defense (Standing) | [0:36](https://jeffcurran.tv/player-embed/id/4670/) | 
+| Guillotine Choke (Basic Survival) | Basic Survival (Wrist/Shoulder Hang) | Guillotine Defense (Standing) | [2:57](https://jeffcurran.tv/player-embed/id/4670/) | 
+| Guillotine Choke (Frame & Peak Out) | Frame & Peak Out | Guillotine Defense (Standing) | [5:31](https://jeffcurran.tv/player-embed/id/4670/) | 
+| Guillotine Choke (Knee Trip w/ Follow-up) | Knee Trip | Guillotine Defense (Standing) | [8:06](https://jeffcurran.tv/player-embed/id/4670/) | 
+| Guard Scissor Sweep | Scissor Sweep (Loading Variation) | Sweeps (Kneeling Opponent) | [1:06](https://jeffcurran.tv/player-embed/id/4673/) | 
+| Guard Push Sweep | Push Sweep (Knee Push Variation) | Sweeps (Kneeling Opponent) | [5:30](https://jeffcurran.tv/player-embed/id/4673/) | 
+| Guard Elevator Sweep | Elevator Sweep (Leg Hook Variation) | Sweeps (Kneeling Opponent) | [9:36](https://jeffcurran.tv/player-embed/id/4673/) | 
+| Guard (Cross Choke: Palm Up) | Cross Choke (Palm Up) | Guard Attack (Series 3) | [12:50](https://jeffcurran.tv/player-embed/id/4682/) | 
+| Guard (Cross Choke: Palm Down) | Cross Choke (Palm Down) | Guard Attack (Series 3) | [16:58](https://jeffcurran.tv/player-embed/id/4682/) | 
+| Double Ankle Grab Sweep | Double Ankle Grab Sweep | Guard Attack (Series 3) | [20:26](https://jeffcurran.tv/player-embed/id/4682/) | 
+| Front Bear Hug (Arms In) | Front Bear Hug (Arms In) | Bear Hug Self-Defense | [0:33](https://jeffcurran.tv/player-embed/id/4690/) | 
+| Front Bear Hug (Arms Out) | Front Bear Hug (Arms Out) | Bear Hug Self-Defense | [3:51](https://jeffcurran.tv/player-embed/id/4690/) | 
+| Rear Bear Hug (Arms In) | Rear Bear Hug (Arms In) | Bear Hug Self-Defense | [6:50](https://jeffcurran.tv/player-embed/id/4690/) | 
+| Rear Bear Hug (Arms Out) | Rear Bear Hug (Arms Out) | Bear Hug Self-Defense | [9:57](https://jeffcurran.tv/player-embed/id/4690/) |  
