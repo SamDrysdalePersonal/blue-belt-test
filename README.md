@@ -5,12 +5,12 @@
 | Trap & Roll (Standard Variation) | Trap & Roll (Standard Collar Grab) | Mount Escape | [0:00](https://jeffcurran.tv/player-embed/id/4473/) |  
 | Trap & Roll (Headlock w/ Hook Removal | Headlock (With Hook Removal) | Mount Escape | [4:07](https://jeffcurran.tv/player-embed/id/4473/) |  
 | Mount: Elbow Escape | Elbow Escape | Mount Escape | [9:56](https://jeffcurran.tv/player-embed/id/4473/) |  
-|  |
+|   |   |   |   | 
 | Suckerpunch / Grab Defense (T-Clinch)| Suckerpunch/Grab (Defense to "T" Clinch) | Clinching | [6:34](https://jeffcurran.tv/player-embed/id/4469/) |  
 | Hip Throw (From T-Clinch) | Hip Throw (From "T") | Clinching | [9:09](https://jeffcurran.tv/player-embed/id/4469/)  |  
 | Leg Trip (From T-Clinch) | Leg Trip (From "T") | Clinching | [11:50](https://jeffcurran.tv/player-embed/id/4469/) |  
 | Rear Leg Trip (Back Clinch) | Rear Leg Trip (From Clinch) | Clinching | [16:30](https://jeffcurran.tv/player-embed/id/4469/)  
-|   |   |   |   ||  
+|   |   |   |   | 
 | Mount: High Swim | High Swim |  Maintain the Mount  | [0:40](https://jeffcurran.tv/player-embed/id/4463/) |  
 | Mount: Low Swim | Low Swim |  Maintain the Mount  | [3:00](https://jeffcurran.tv/player-embed/id/4463/) |  
 | Mount: Anchor & Base | Anchor & Base (Pushing & Bucking) |  Maintain the Mount  | [7:55](https://jeffcurran.tv/player-embed/id/4463/) |
